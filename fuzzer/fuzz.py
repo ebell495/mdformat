@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import atheris
 
 with atheris.instrument_imports():
