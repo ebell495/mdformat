@@ -1,8 +1,6 @@
 project: mdformat
 target: fuzz.py
 
-tests: null
-
 cmds:
     - cmd: fuzzer/fuzz.py
       libfuzzer: true
